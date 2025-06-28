@@ -1,0 +1,20 @@
+data/*
+!data/offcial_splits/
+!data/scripts/convert_video_to_15fps.py
+
+# Ignore everything inside "features/"
+features/*
+# Allow tracking of "scripts_organ/"
+!features/scripts_organ/
+# Allow only "linear_projection_features.py" inside "scripts_organ/"
+!features/scripts_organ/linear_projection_features.py
+!features/scripts_organ/imagenet_features.py
+!features/scripts_organ/endoscopy_features.py
+features/scripts_organ/best-model-val_f1_macro.ckpt
+
+Notebooks/*
+!Notebooks/predict_example.ipynb
+
+stomach_classification/*
+util/* 
+
