@@ -1,7 +1,7 @@
 # Automated Upper Endoscopy Auditing of Procedure Times: Temporal Multiclass Analysis
 <img src="figures/Pipeline.jpg" alt="Pipeline" width="700">
 
-Welcome to the official repository for our MICCAI 2025 paper. Here, you'll find scripts, datasets, and models essential for our research. 🚀
+Welcome to the official repository for our MICCAI 2025 paper. Here, you'll find scripts, datasets, and models essential for our research. 🚀🎯 📂
 
 📊 Data
 Summary: 
